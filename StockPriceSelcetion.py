@@ -5,7 +5,7 @@ Created on Wed Jul 18 14:05:50 2018
 1.Functions from St.data and pandas_datareader.wb extract data from various Internet sources into a pandas DataFrame. 
 2.Select dataframe rows between two dates
 3.Moving Averages
-4.
+4.Visulization
 @author: kevindai
 """
 
